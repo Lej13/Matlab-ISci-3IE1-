@@ -31,8 +31,7 @@ Start of markdown
 2. only surgery would fix it 
 
 
-
-[logo]: https://github.com/Lej13/Matlab-ISci-3IE1-/blob/master/shoulder.png?raw=true "shoulder"
+![alt text]: https://github.com/Lej13/Matlab-ISci-3IE1-/blob/master/shoulder.png?raw=true "shoulder"
 
 Hi | hello| bye
 ---|---|---
