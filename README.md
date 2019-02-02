@@ -10,12 +10,12 @@ this is adding more text to this readme file from the git bash
 
 Start of markdown
 
-# **Womens college hospital (WCH)
+# ** Womens college hospital (WCH)
 
-## *orthopaedics
-**Surgery**
+## * orthopaedics
+** Surgery
 
-### *Surgeons*
+### * Surgeons*
 * Dr. Tim dwyer
   * Open and arthroscopy of Hip, Shoulder and Knee
   * [Tim Dwyer] (https://uoftorthopaedics.ca/directory/faculty/surgeons/dwyer-tim/)
