@@ -10,19 +10,19 @@ this is adding more text to this readme file from the git bash
 
 Start of markdown
 
-#**Womens college hospital (WCH)
+# **Womens college hospital (WCH)
 
-##*orthopaedics
+## *orthopaedics
 **Surgery**
 
 ### *Surgeons*
-*Dr. Tim dwyer
+* Dr. Tim dwyer
   * Open and arthroscopy of Hip, Shoulder and Knee
   * [Tim Dwyer] (https://uoftorthopaedics.ca/directory/faculty/surgeons/dwyer-tim/)
 
-*Dr. Mark Camp
+* Dr. Mark Camp
   
-  *Pediatrics orthopaedics
+  * Pediatrics orthopaedics
   * [Mark Camp] (https://uoftorthopaedics.ca/directory/faculty/surgeons/camp-mark/)
 
 ##### *Fun fact: I got my shoulder surgery at WCH with Dr. Dwyer
@@ -36,4 +36,4 @@ Hi | hello| bye
 1   |2 |  3  
 
 
-#**Have a great day! :wink: 
+# ** Have a great day! :wink: 
